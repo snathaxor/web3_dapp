@@ -1,6 +1,6 @@
-# web3_dapp
+# web3_dapp blockchain wallet 
 
-A new Flutter project.
+this is assesment for nordek.io  
 
 ## Getting Started
 
